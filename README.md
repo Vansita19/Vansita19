@@ -6,14 +6,9 @@ I design AI-native products and B2B SaaS, owning the experience from early produ
 
 [Portfolio](https://vansita.design) · [LinkedIn](https://www.linkedin.com/in/vansita/) · [Email](mailto:avansita2002@gmail.com)
 
-### Work you can explore
+### My work
 
-**[Pitch Protocol dashboard](https://vansita.design/pitch-protocol)**
-
-Designed and shipped the frontend for an AI investor portal used by 15+ VC teams and 1,200+ founders raising capital.
-
-**[My portfolio](https://github.com/Vansita19/vansita-portfolio)** · [Live site ↗](https://vansita.design)  
-Product case studies and an interactive playground, built with Astro and TypeScript. Includes custom flower motion, a day-to-night desk scene, and a lighter mobile experience.
+Designed and shipped the frontend for Pitch Protocol’s AI investor dashboard, used by 15+ VC teams and 1,200+ founders raising capital.
 
 ### Experimental projects
 
