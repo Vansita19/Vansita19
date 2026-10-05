@@ -12,8 +12,8 @@ Designed and shipped the frontend for Pitch Protocol’s AI investor dashboard, 
 
 ### Experimental projects
 
-- **Panda Notch:** a macOS companion that brings tasks, focus time, and calendar reminders beside the camera notch.
-- **Personal Digital Library:** a tactile book collection with search, reading states, notes, and a vocabulary notebook.
+- **[Panda Notch](https://github.com/Vansita19/panda-notch):** a macOS companion that brings tasks, focus time, and calendar reminders beside the camera notch.
+- **[Personal Digital Library](https://github.com/Vansita19/personal-digital-library):** a tactile book collection with search, reading states, notes, and a vocabulary notebook.
 
 ### How I work
 
