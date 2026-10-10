@@ -23,4 +23,4 @@ I work on AI products and B2B SaaS, bringing together UX, brand, visual design, 
 
 ### How I work
 
-I like seeing things through—from figuring out what to build to getting the details right in the browser. I work closely with engineers and move between Figma and code to see how ideas feel in practice. Whether I’m working on a product flow, a brand, or a small interaction, I care about making it useful, thoughtful, and clear.
+I like seeing things through, from figuring out what to build to getting the details right in the browser. I work closely with engineers and move between Figma and code to see how ideas feel in practice. Whether I’m working on a product flow, a brand, or a small interaction, I care about making it useful, thoughtful, and clear.
